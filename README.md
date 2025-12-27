@@ -1,3 +1,6 @@
+
+# Loyal launcher based on Helios launcher and [evernife offline login system](https://github.com/EverNife/FinalCraft-Launcher-Helios)
+
 <p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
 
 <h1 align="center">Helios Launcher</h1>
